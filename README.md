@@ -1,6 +1,12 @@
-# My Project
+# Nigerian HR App
 
-This is a description of my project.
+This is a description of my project on Nigerian HR App.
+
+## Database Mockup
+
+Check out the Entity-Relationship Diagram via the link below:
+
+https://dbdiagram.io/d/Nigerian-HR-App-6501700702bd1c4a5e7a2730
 
 ## Installation
 
